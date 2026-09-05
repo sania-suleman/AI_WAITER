@@ -1,0 +1,37 @@
+PAUCEK AND LAGE RESTAURANT
+FOOD MENU
+
+MAIN DISHES
+
+Grilled Salmon - $18.99
+Vegetable Pad Thai - $13.99
+Mushroom Risotto - $14.99
+Grilled Chicken - $12.99
+Classic Beef - $16.99
+Eggplant Parmesan - $15.99
+
+BEVERAGES
+
+Classic Margarita - $3.99
+Mango Mocktail - $2.99
+Iced Caramel Macchiato - $4.99
+Green Tea Frappuccino - $3.99
+Pineapple Coconut Smoothie - $5.99
+Raspberry Mojito - $3.99
+Blackberry Ginger Sparkler - $2.99
+
+DESSERT
+
+Chocolate Mousse - $5.99
+Apple Pie - $7.99
+Strawberry Shortcake - $6.99
+Fruit Tart - $5.99
+Tiramisu - $8.99
+Chocolate Lava Cake - $6.99
+Cheesecake - $5.99
+
+SPECIAL MENU RULES
+
+No combo discounts are listed on the provided menu.
+No spice-level options are listed on the provided menu.
+No allergy substitutions are specified on the provided menu.
